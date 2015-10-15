@@ -1,0 +1,5 @@
+/Users/takunakano/rails/natsu/vendor/bundle/ruby/2.2.0/gems/libv8-3.16.14.13/patches/clang/no-unused-private-field.patch
+/Users/takunakano/rails/natsu/vendor/bundle/ruby/2.2.0/gems/libv8-3.16.14.13/patches/clang33/silence-nested-anon-types-and-unused-function-warnings.patch
+/Users/takunakano/rails/natsu/vendor/bundle/ruby/2.2.0/gems/libv8-3.16.14.13/patches/clang51/no-unused-variable.patch
+/Users/takunakano/rails/natsu/vendor/bundle/ruby/2.2.0/gems/libv8-3.16.14.13/patches/disable-building-tests.patch
+/Users/takunakano/rails/natsu/vendor/bundle/ruby/2.2.0/gems/libv8-3.16.14.13/patches/fPIC-for-static.patch
