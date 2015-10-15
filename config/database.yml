@@ -23,7 +23,7 @@ default: &default
 
 development:
   <<: *default
-  database: natsu_development
+  database: natsu
 
   # The specified database role being used to connect to postgres.
   # To create additional roles in postgres see `$ createuser --help`.
@@ -80,6 +80,6 @@ test:
 #
 production:
   <<: *default
-  database: natsu_production
+  database: natsu
   username: natsu
   password: <%= ENV['NATSU_DATABASE_PASSWORD'] %>
